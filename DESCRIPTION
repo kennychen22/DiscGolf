@@ -12,3 +12,4 @@ URL: https://github.com/kennychen22/DiscGolf
 License: MIT + file LICENSE
 Depends: 
     R (>= 2.10)
+BugReports: https://github.com/kennychen22/DiscGolf/issues
