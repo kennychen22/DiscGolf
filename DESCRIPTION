@@ -1,0 +1,14 @@
+Package: DiscGolf
+Title: Flying objects officially approved for use in competition
+Version: 0.1.0
+Authors@R: 
+    person(given = "Kenny",
+           family = "Chen",
+           role = c("aut", "cre"),
+           email = "kchen22@amherst.edu")
+Description: This is a sample Data Package from Amherst College STAT495.
+  It includes everything you might want to know about Disc Golf flying objects.
+URL: https://github.com/kennychen22/DiscGolf
+License: MIT + file LICENSE
+Depends: 
+    R (>= 2.10)
