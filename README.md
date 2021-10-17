@@ -4,6 +4,8 @@
 # DiscGolf
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/kennychen22/DiscGolf/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/kennychen22/DiscGolf/actions/workflows/check-standard.yaml)
 <!-- badges: end -->
 
 The goal of DiscGolf is to …
